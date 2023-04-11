@@ -34,3 +34,7 @@ Maximum number of consecutive negative days: 6
 
 Cumulative average loss in those 6 days: -5.11%
 
+# DTT architecture
+
+![DTT schema](https://user-images.githubusercontent.com/92114788/231246478-fbb5fae8-82ad-4581-afbd-a4c6be3b3e56.png)
+
