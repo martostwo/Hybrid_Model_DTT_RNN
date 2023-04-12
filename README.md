@@ -1,6 +1,6 @@
 # Hybrid A.I. Model: Deep Temporal Transformer + RNN
 
-This model combines Deep Temporal Transformers with LSTM and GRU to predict the stock market. Specifically, it outperforms the SP500 during the 3-year testing period, achieving a return of 170% and a Sortino ratio greater than 2.
+This model combines Deep Temporal Transformers with LSTM and GRU to predict the stock market. Specifically, it outperforms the SP500 during the 3-year testing period, achieving a return of 170% and a Sortino ratio greater than 2. 
 
 ![backtesting](https://user-images.githubusercontent.com/92114788/231217123-9f54d8f4-535a-4870-9723-188848831c98.png)
 
